@@ -1,0 +1,19 @@
+{
+  "name": "reactapp",
+  "version": "1.0.0",
+  "description": "\"This is a test directory for Node\"",
+  "main": "git-test/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaikrishnalal/reactTutRepository.git"
+  },
+  "author": "Jai Kishan Lal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaikrishnalal/reactTutRepository/issues"
+  },
+  "homepage": "https://github.com/jaikrishnalal/reactTutRepository#readme"
+}
